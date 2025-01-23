@@ -18,7 +18,7 @@ public class CheckChar {
 		else {
 			System.out.println("You have entered a symbol!");
 		}
-        sc.close();
+         sc.close();
 	}
 
 }

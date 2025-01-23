@@ -9,9 +9,7 @@ public class Primefun {
 			}
 			
 		}
-		System.out.println("edited program");
-		System.out.println("edited program");
-		System.out.println("edited program");
+		
 		
 		return count;
 		
